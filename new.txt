@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Grégory GRAND
+=======
+Alexis Rousseau
+>>>>>>> Stashed changes
